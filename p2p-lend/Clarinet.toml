@@ -5,6 +5,7 @@ authors = []
 telemetry = true
 cache_dir = '.\.cache'
 requirements = []
+
 [contracts.p2p-lending-pool]
 path = 'contracts/p2p-lending-pool.clar'
 clarity_version = 2
